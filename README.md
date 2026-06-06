@@ -1,75 +1,91 @@
 <div align="center">
 
-<!-- Replace the emoji with your actual profile picture if you want -->
-# Hey, I'm Lash 👋
+```
+██╗      █████╗ ███████╗██╗  ██╗
+██║     ██╔══██╗██╔════╝██║  ██║
+██║     ███████║███████╗███████║
+██║     ██╔══██║╚════██║██╔══██║
+███████╗██║  ██║███████║██║  ██║
+╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-**Full-Stack Developer in the making · Linux & Open Source Enthusiast**
+**full-stack developer in the making.**
+I learn by building, breaking, and asking *why*.
+Based in Kerala · Linux power user · Hyprland enjoyer.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br>
 
-📍 Kerala, India &nbsp;·&nbsp; 🕐 Open to opportunities
+![JavaScript](https://img.shields.io/badge/-JavaScript-EEEDFE?style=flat-square&logo=javascript&logoColor=534AB7)
+![Node.js](https://img.shields.io/badge/-Node.js-E1F5EE?style=flat-square&logo=nodedotjs&logoColor=0F6E56)
+![Express](https://img.shields.io/badge/-Express-FAECE7?style=flat-square&logo=express&logoColor=712B13)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FAEEDA?style=flat-square&logo=mongodb&logoColor=633806)
+![Linux](https://img.shields.io/badge/-Linux-F1EFE8?style=flat-square&logo=linux&logoColor=444441)
 
 </div>
 
 ---
 
-## 🙋 About Me
+```
+// about
+```
 
-I'm a **self-directed full-stack developer** who learns by building and breaking things.
-Currently deep-diving into the JS ecosystem — from vanilla fundamentals to scalable back-end architecture.
-I care about the *why* behind every concept, not just the how.
-
-When I'm not coding, I'm tweaking my **Hyprland** setup or exploring how computers actually work under the hood.
+self-directed developer obsessed with understanding the *why* behind every concept.
+deep-diving the JS ecosystem — vanilla fundamentals → scalable back-end architecture.
+when not coding: tweaking my hyprland config or exploring how computers actually work.
 
 ---
 
-## 🛠️ Tech Stack
+```
+// stack
+```
 
-| Layer | Tools |
+| layer | tools |
 |---|---|
-| **Language** | JavaScript (ES6+) |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, Mongoose |
-| **Frontend** | HTML, CSS, EJS |
-| **DevOps** | Git, GitHub, Linux (Arch / Hyprland) |
-| **Editor** | VS Code |
+| language | JavaScript (ES6+) |
+| back-end | Node.js · Express.js |
+| database | MongoDB · Mongoose |
+| front-end | HTML · CSS · EJS |
+| system | Linux (Arch) · Hyprland · VS Code · Git |
 
 ---
-
-## 🚀 What I'm Building
-
-**User Management System** — A full MVC app with:
-- 🔐 Authentication & session management
-- 🛡️ Admin panel with role-based access
-- 🧩 Service layer architecture (controllers → services → models)
-- ✅ Per-field validation with meaningful error feedback
-- 🔍 Search, create, edit, and soft-delete users
-
----
-
-## 📈 Learning Journey
 
 ```
-✅ JS Fundamentals    — Closures, event loop, Promises, async/await, prototypes
-✅ Node.js & Express  — Middleware, routing, sessions, auth, MVC architecture
-✅ MongoDB            — Aggregation pipeline, indexing, schema design
-🔨 Building in Public — User Management System (full-stack, full-CRUD)
+// building
+```
+
+**user management system** — full MVC app with service layer architecture
+
+- auth · session management · bcrypt passwords
+- admin panel with role-based access control
+- `controllers/` → `services/` → `models/` separation
+- per-field validation with meaningful error feedback
+- search · create · edit · soft-delete users
+
+---
+
+```
+// journey
+```
+
+```
+01  js fundamentals    ████████████████████  closures, event loop, promises, async/await
+02  node + express     ████████████████░░░░  middleware, routing, sessions, auth, MVC
+03  mongodb            ██████████████░░░░░░  aggregation, indexing, schema design
+04  building in public ████░░░░░░░░░░░░░░░░  user management system [active]
 ```
 
 ---
 
-## 📫 Let's Connect
+```
+// connect
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/-github-F1EFE8?style=flat-square&logo=github&logoColor=2C2C2A)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-E6F1FB?style=flat-square&logo=linkedin&logoColor=185FA5)](https://linkedin.com/in/YOUR_PROFILE)
+[![Email](https://img.shields.io/badge/-email-FAECE7?style=flat-square&logo=gmail&logoColor=993C1D)](mailto:YOUR_EMAIL)
 
----
+<br>
 
 <div align="center">
-  <em>"Build. Break. Learn. Repeat." ⌨️</em>
+<sub><code>// build · break · learn · repeat</code></sub>
 </div>
