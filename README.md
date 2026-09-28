@@ -72,8 +72,8 @@ Self-directed developer who **thinks outside the box** and values **deep underst
 | ✅ Done | JS fundamentals — closures, `this`, Promises, `reduce`/`map`/`filter`, hoisting, TDZ |
 | ✅ Done | Node.js architecture — event loop, V8/libuv, middleware, sessions, error handling |
 | ✅ Done | MongoDB — aggregation pipeline, indexing, transactions, CAP theorem, GridFS |
-| 🔄 In Progress | Advanced operators — `$lookup`, `$elemMatch`, `$expr`, `$addToSet`, cluster & events modules |
-| ⏭️ Up Next | Deepening full-stack architecture & building in public |
+| ✅In Progress | Advanced operators — `$lookup`, `$elemMatch`, `$expr`, `$addToSet`, cluster & events modules |
+| ✅ Up Next | Deepening full-stack architecture & building in public |
 
 ---
 
